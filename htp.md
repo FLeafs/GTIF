@@ -1,3 +1,4 @@
 # How To Play
-## Android
+-<a href="#android">Android</a>
+## <p id="android"></p>Android
 ##### Method 1
