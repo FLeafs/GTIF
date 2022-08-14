@@ -1,3 +1,3 @@
 # How To Play
 ## Android
-### Method 1
+##### Method 1
