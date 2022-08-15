@@ -14,7 +14,7 @@
 ### Method 2 
 - Download [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change&hl=in&gl=US) in PlayStore
 - Open the Hosts Go, then click at <i>Hosts Editor</i>
-- Click <i>:</i> , then click <i>Download HOSTS file</i>
+- Click ⋮ , then click <i>Download HOSTS file</i>
 - Type <i>https://configure.gtps.xyz/connect/android</i> , then click <i>Download and Apply</i>
 - Go back to the menu, and turn on <i>Hosts Change Switch</i>
 - Press Start and login GrowTopia, enjoy
