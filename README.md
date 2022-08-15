@@ -6,4 +6,4 @@ GTIF Private Server, Omaga Geming
 
 # Links
 - ## WhatsApp
-- Kereb
+- <a href="https://chat.whatsapp.com/EKR0eLZe9ua3glfK4HIZrm"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="wa" width="64px" geight="64px"></a>
