@@ -2,7 +2,7 @@
 # How To Play
 - <a href="#android">Android</a>
 - <a href="#ios">iOS</a>
-- <a href="#android">Windows</a>
+- <a href="#windows">Windows</a>
 ---
 # <p id="android"></p>Android
 ### Method 1 (Android 4.0 - Android 10)
