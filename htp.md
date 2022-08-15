@@ -28,6 +28,13 @@
 - Done and login GrowTopia, enjoy
 ---
 # <p id="windows"></p>Windows
+### Method 1
+- Download [this file](https://cdn.discordapp.com/attachments/969952056989331486/1008652060381691934/start.bat)
+- Find the file where you save it (may be in Downloads folder)
+- After you found it, right click the file and click <i>Run as Administrator</i>
+- After the console appear, input 1 or 2 according to instructions
+- Done login GrowTopia, enjoy
+### Method 2
 - Run notepad as administrator
 - Press ⊞ + O , then navigate to <i>C:\Windows\System32\drivers\etc</i>
 - Change file type from Text Documents (*.txt) into All files (.)
